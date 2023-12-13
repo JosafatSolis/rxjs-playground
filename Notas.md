@@ -1,5 +1,7 @@
 NOTAS
 
+--> Para correr, revisar README.md
+
 Observable:
     - Se representa con una terminación $
     - Recibe una función como parámetro
